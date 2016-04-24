@@ -33,24 +33,24 @@ Requires dyplr
 	- Load the raw data from X_train.txt use the names from features.txt as the column names
 	- Load the activity data from y_train.txt with the column name "ActivityNum"
 		- Set descriptive Activity names based on the ActivityNum column
-			1. WALKING
-			2. WALKING_UPSTAIRS
-			3. WALKING_DOWNSTAIRS
-			4. SITTING
-			5. STANDING
-			6. LAYING
+			- 1 WALKING
+			- 2 WALKING_UPSTAIRS
+			- 3 WALKING_DOWNSTAIRS
+			- 4 SITTING
+			- 5 STANDING
+			- 6 LAYING
 	
 	Test
 	- Load subject from subject_test.txt with column name "Subject"
 	- Load the raw data from X_test.txt use the names from features.txt as the column names
 	- Load the activity data from y_test.txt with the column name "ActivityNum"
 		- Set descriptive Activity names based on the ActivityNum column
-			1. WALKING
-			2. WALKING_UPSTAIRS
-			3. WALKING_DOWNSTAIRS
-			4. SITTING
-			5. STANDING
-			6. LAYING
+			- 1 WALKING
+			- 2 WALKING_UPSTAIRS
+			- 3 WALKING_DOWNSTAIRS
+			- 4 SITTING
+			- 5 STANDING
+			- 6 LAYING
 
 2. Create one data set with only the desired columns
 
