@@ -19,14 +19,15 @@ Human Activity Recognition Using Smartphones Data Set.
 	http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 
-Requires dyplr	
+**Requires dyplr to be installed**
 
 1. Load files
 
-	Assume zip file was extracted in working directory
-	Assume zip file folder structure was kept			
+	Assumptions:
+	- **Zip file was extracted in working directory**
+	- **Zip file folder structure was kept**
 	
-	- Load column names from features.txt into vector for use in reading the train and test data files
+	Load column names from features.txt into vector for use in reading the train and test data files
 	
 	Train Data
 	- Load subject from subject_train.txt with column name "Subject" 
