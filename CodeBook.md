@@ -19,6 +19,9 @@ ActivityName
 - For all metrics prefixed with "f", the units are frequency
 - For all metrics prefixed with "Angle", the units are angle
 
+
+Variables:
+
 * tBodyAcc Mean X Axis
 * tBodyAcc Mean Y Axis
 * tBodyAcc Mean Z Axis
